@@ -3,7 +3,7 @@ import time
 from telegram import Bot
 
 # Telegram Bot token
-TOKEN = 'you bot token'
+TOKEN = 'your bot token' # Your bot auth token 
 
 # Your private channel ID
 CHANNEL_ID = 'channel id'  # Replace this with your actual channel ID
