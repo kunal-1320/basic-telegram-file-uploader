@@ -24,7 +24,7 @@ This Python script monitors a folder on your computer and uploads any new files 
     ```
     python file_monitor.py
     ```
-2. Move or copy any file you want to upload to the monitored folder (default: `D:\TelegramUpload`).
+2. Move or copy any file you want to upload to the monitored folder (`folder location`).
 3. The script will automatically detect the new file and upload it to your Telegram channel.
 
 ## Important Notes
